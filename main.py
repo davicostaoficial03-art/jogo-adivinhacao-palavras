@@ -1,4 +1,3 @@
-```python
 # Define a palavra que o jogador precisa adivinhar.
 palavra = "python"
 
